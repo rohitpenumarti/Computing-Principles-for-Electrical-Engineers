@@ -1,6 +1,6 @@
 # Computing-Principles-for-Electrical-Engineers
 
-This repository showcases the homework assigments I completed for the data structures and algorithms course I took during my graduate studies. Assignments can be summarized or provided if necessary.
+This repository showcases the homework assigments I completed for the data structures and algorithms course I took during my graduate studies. For more information on what each assignment was concerned with, information will be provided on request.
 
 ### [Final Project](https://github.com/rohitpenumarti/Computing-Principles-for-Electrical-Engineers/blob/master/Final-Project/final.cc)
 
